@@ -6,6 +6,16 @@ Downloading & installation toools
 
 - [Example 1](https://www.example.com)
 
+
+
+Say what the step will be
+
+    Give the example
+
+And repeat
+
+    until finished
+
 1. Plink 
 
 PLINK1.9 : https://www.cog-genomics.org/plink/
