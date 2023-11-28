@@ -17,7 +17,7 @@ A step by step pipeline for download and installing GWAS software and tools
 
 ### Plink
 
-* Explain what these tests test and why
+ Explain what these tests test and why
 
     PLINK1.9 : https://www.cog-genomics.org/plink/
     PLINK2 : https://www.cog-genomics.org/plink/2.0/
