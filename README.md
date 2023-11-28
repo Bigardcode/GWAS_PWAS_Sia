@@ -1,5 +1,8 @@
 
-[![version](https://s3.wp.wsu.edu/uploads/sites/1102/2021/06/Diagram1_new3-e1624318561270-768x402.png))]
+[![version](https://s3.wp.wsu.edu/uploads/sites/1102/2021/06/Diagram1_new3-e1624318561270-768x402.png))
+
+
+
 
 
 # GWAS notebook
