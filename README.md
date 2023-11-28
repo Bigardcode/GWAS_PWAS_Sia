@@ -20,6 +20,7 @@ environment running
 Explain what these tests test and why
 
     PLINK1.9 : https://www.cog-genomics.org/plink/
+    https://s3.amazonaws.com/plink2-assets/plink2
 
 ### Style test
 
