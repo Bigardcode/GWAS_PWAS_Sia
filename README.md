@@ -1,27 +1,17 @@
 # GWAS_PWAS_Sia
 ##GWAS & PWAS notebook##
 
-✔✔✔✔#Step_1..........................................................................................................
-Downloading & installation toools 
+✔✔✔✔#Step_1 Downloading & installation toools 
 
 - [Example 1](https://www.example.com)
 
 
 
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
-
 1. Plink 
 
-PLINK1.9 : https://www.cog-genomics.org/plink/
-PLINK2 : https://www.cog-genomics.org/plink/2.0/
-
-cd ~
+    PLINK1.9 : https://www.cog-genomics.org/plink/
+    PLINK2 : https://www.cog-genomics.org/plink/2.0/
+   cd ~
 mkdir tools
 cd tools
 mkdir bin
@@ -42,5 +32,15 @@ export PATH=$PATH:~/tools/bin/
 echo "export PATH=$PATH:~/tools/bin/" >> ~/.bashrc
 
 plink -h
+
+And repeat
+
+    until finished
+
+
+
+
+
+
 
 
