@@ -17,10 +17,10 @@ A step by step pipeline for download and installing GWAS software and tools
 
 ### Plink
 
-Explain what these tests test and why
+* Explain what these tests test and why
 
-    #Plink web page
-    https://www.cog-genomics.org/plink/
+    #[Plink]([https://github.com/yupenghe/methylpy](https://www.cog-genomics.org/plink/))
+    
 
     PLINK1.9 : https://www.cog-genomics.org/plink/
     PLINK2 : https://www.cog-genomics.org/plink/2.0/
