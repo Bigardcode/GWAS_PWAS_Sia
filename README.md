@@ -1,4 +1,4 @@
-
+# ![nf-core/methylseq](docs/images/nf-core-methylseq_logo_light.png#gh-light-mode-only) ![nf-core/methylseq](docs/images/nf-core-methylseq_logo_dark.png#gh-dark-mode-only)
 # GWAS notebook
 
 
