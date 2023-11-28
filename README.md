@@ -5,11 +5,14 @@
 
 - [Example 1](https://www.example.com)
 
-
-
-1. Plink 
+1. Plink
 
     PLINK1.9 : https://www.cog-genomics.org/plink/
+
+
+ 
+
+    
     PLINK2 : https://www.cog-genomics.org/plink/2.0/
    cd ~
 mkdir tools
@@ -33,9 +36,7 @@ echo "export PATH=$PATH:~/tools/bin/" >> ~/.bashrc
 
 plink -h
 
-And repeat
 
-    until finished
 
 
 
