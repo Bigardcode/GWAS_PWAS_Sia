@@ -18,7 +18,7 @@ time in order to have the best pipeline of this complete one for doing the GWAS 
 
 ### Provision and preparation of data
 
-        - Prepare the raw genotype files 
+        -- Prepare the raw genotype files 
 
 
 
