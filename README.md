@@ -15,6 +15,21 @@ to be a tool for development and comprehensive analysis One of the advantages of
 is that we can develop and change the edited codes at any 
 time in order to have the best pipeline of this complete one for doing the GWAS prrojects..
 
+
+### Provision and preparation of data
+
+        - Prepare the raw genotype files 
+
+
+
+
+
+
+
+
+
+
+
 ### Installation
 
 A step by step pipeline for download and installing GWAS software and tools 
